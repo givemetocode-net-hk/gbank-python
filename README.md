@@ -19,3 +19,7 @@ gbank/
 `python database.py`
 3. start flask
 `python app.py`
+## default user
+default admin is root
+## Bug
+if you found the bug you can go to Issues.
